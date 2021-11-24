@@ -70,4 +70,6 @@
 | Icon | Title | Author | Year | Reason |
 | ----- | ----- | ------ | ------ | ------ |
 | ![Think Again](https://images-na.ssl-images-amazon.com/images/I/41aI6zvBz9S._SX329_BO1,204,203,200_.jpg) | [Think Again](https://www.amazon.com/dp/1984878107) | [Adam Grant](https://www.amazon.com/Adam-Grant/e/B00ATUAAWE) | 2021 | The Power of Knowing What You Don't Know |
+| ![Head First Design Patterns](https://images-na.ssl-images-amazon.com/images/I/51rmlxN57sL._SX430_BO1,204,203,200_.jpg) | [Head First Design Patterns, 2nd Edition](https://www.amazon.com/dp/149207800X) | [Eric Freeman](https://www.amazon.com/Eric-Freeman/e/B001H6Q032), [Elisabeth Robson](https://www.amazon.com/Elisabeth-Robson/e/B001H6Q046) | 2020 | Learn design principles and patterns in a way that won't put you to sleep |
+| ![Java Concurrency in Practice](https://images-na.ssl-images-amazon.com/images/I/51ezEd0Lw6L._SX377_BO1,204,203,200_.jpg) | [Java Concurrency in Practice](https://www.amazon.com/dp/0321349601) | [Brian Goetz](https://www.amazon.com/Brian-Goetz/e/B001JSCCH6), Tim Peierls, Joshua Bloch, Joseph Bowbeer,  | 2006 | TBD |
 | ![]() | []() | []() | TBD | TBD |
