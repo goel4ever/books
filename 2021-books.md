@@ -6,7 +6,7 @@ Full list of books to be read [here](./README.md)
 - [ ] [Microservices Patterns](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543) | [Chris Richardson](https://www.amazon.com/Chris-Richardson/e/B00MBVFJHU)
 - [ ] [Seven Databases in Seven Weeks](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement-ebook/dp/B07CYLX6FD) | Luc Perkins, [Eric Redmond](https://www.amazon.com/Eric-Redmond/e/B00855R4NS), Jim Wilson
 
-## Leadership
+## Growth
 - [ ] [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) | [Camille Fournier](https://www.amazon.com/Camille-Fournier/e/B06XFMDTBZ)
 - [ ] TBD
 
