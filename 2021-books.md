@@ -3,7 +3,7 @@
 Full list of books to be read [here](./README.md)
 
 ## Engineering
-- [ ] [Microservices Patterns](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543) | [Chris Richardson](https://www.amazon.com/Chris-Richardson/e/B00MBVFJHU)
+- [X] [Microservices Patterns](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543) | [Chris Richardson](https://www.amazon.com/Chris-Richardson/e/B00MBVFJHU)
 - [ ] [Seven Databases in Seven Weeks](https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement-ebook/dp/B07CYLX6FD) | Luc Perkins, [Eric Redmond](https://www.amazon.com/Eric-Redmond/e/B00855R4NS), Jim Wilson
 
 ## Growth
@@ -11,7 +11,7 @@ Full list of books to be read [here](./README.md)
 - [ ] TBD
 
 ## Health
-- [ ] [Powerfully Fit](https://www.amazon.com/Powerfully-Fit-Strength-Endurance-Improvement/dp/0875962793) | [Brian Chichester](https://www.amazon.com/Brian-Chichester/e/B001KISDV4)
+- [X] [Powerfully Fit](https://www.amazon.com/Powerfully-Fit-Strength-Endurance-Improvement/dp/0875962793) | [Brian Chichester](https://www.amazon.com/Brian-Chichester/e/B001KISDV4)
 - [ ] [Bigger Leaner Stronger](https://www.amazon.com/Bigger-Leaner-Stronger-Building-Ultimate/dp/1938895304) | [Michael Matthews](https://www.amazon.com/Michael-Matthews/e/B006XNAP6C)
 
 ## Lifestyle
